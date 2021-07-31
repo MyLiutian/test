@@ -9,7 +9,8 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
-        System.out.println( "测试玩!" ); 
+        System.out.println( "测试玩!" );
+        System.out.println("我从上面下路的");
            
     }
 }
