@@ -9,7 +9,7 @@ public class App
     public static void main( String[] args )
     {
         
-        System.out.println("hhhh点对点！！！");
+        System.out.println("好东西");
            
     }
 }
