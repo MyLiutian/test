@@ -9,7 +9,7 @@ public class App
     public static void main( String[] args )
     {
         
-        System.out.println("最后一次");
+        System.out.println("吃饭饭了");
            
     }
 }
